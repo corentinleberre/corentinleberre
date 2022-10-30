@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=corentinleberre&label=Profile%20views&color=0e75b6&style=flat" alt="corentinleberre" /> </p>
 
-- 🔭 I’m currently working at [G2S](https://www.linkedin.com/company/groupama-supports-et-services/)
+- 🔭 I’m currently working in Montréal at [abbeal](https://www.linkedin.com/company/abbeal/)
 
 - 📫 How to reach me **corentin.leberre@icloud.com**
 
