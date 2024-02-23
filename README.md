@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Corentin Le Berre</h1>
-<h3 align="center">A Js Full-Stack developer from France</h3>
+<h3 align="center">A Full-Stack developer from France</h3>
 
 #### My latest articles
 
